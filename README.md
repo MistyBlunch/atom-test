@@ -3,7 +3,10 @@ Para el challenge de Atom decidí hacer uso de la arquitectura **MVC** para tene
 
 Las tecnologías que usé para el backend fueron **Express** y **Typescript**, **Firestore** como base de datos NoSQL y **Jest** para las pruebas unitarias.
 
-El proyecto consiste en una API REST de tasks que nos permitirá crear, actualizar y eliminar una tarea además de listar todas las tareas existentes.
+El proyecto consiste en un **API REST** de tasks que nos permitirá crear, actualizar y eliminar una tarea además de listar todas las tareas existentes.
+
+### API 🚀
+[Link de la API deployada](https://atom-tasks.onrender.com/tasks)
 
 ## Requirements
 - Node JS 
@@ -20,7 +23,7 @@ Para obtener los las llaves necesarias de Firebase en el `.env` deberás entrar 
 
 ## Detalles del Servidor
 
-### Paths-UseCases
+### Endpoints
 
 - _GET:_ /tasks
 
@@ -84,3 +87,7 @@ Para obtener los las llaves necesarias de Firebase en el `.env` deberás entrar 
     ```
 
 - _DELETE:_ /tasks/{id}
+
+## Pasos para ejecutar y validar las pruebas en desarrollo
+1. Ejecuta el comando `yarn test` y valida que todos los tests hayan pasado.
+
