@@ -1,4 +1,4 @@
-# Atom - Tasks API REST Challenge
+# Atom - Tasks API REST Challenge 📋
 Para el challenge de Atom decidí hacer uso de la arquitectura **MVC** para tener un código modular que me ayude a facilitar las pruebas y la escalabilidad.
 
 Las tecnologías que usé para el backend fueron **Express** y **Typescript**, **Firestore** como base de datos NoSQL y **Jest** para las pruebas unitarias.
@@ -87,4 +87,6 @@ Para obtener los las llaves necesarias de Firebase en el `.env` deberás entrar 
 
 
 
-Made with ❤️ by MistyBlunch
+<span style="display: block; text-align: center;">
+  Made with ❤️ by MistyBlunch
+</span>
