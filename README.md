@@ -84,9 +84,3 @@ Para obtener los las llaves necesarias de Firebase en el `.env` deberás entrar 
     ```
 
 - _DELETE:_ /tasks/{id}
-
-
-
-<span style="display: block; text-align: center;">
-  Made with ❤️ by MistyBlunch
-</span>
