@@ -6,7 +6,7 @@ Las tecnologías que usé para el backend fueron **Express** y **Typescript**, *
 El proyecto consiste en un **API REST** de tasks que nos permitirá crear, actualizar y eliminar una tarea además de listar todas las tareas existentes.
 
 ### API 🚀
-[Link de la API deployada](https://atom-tasks.onrender.com/tasks)
+[Link de la API deployada](https://atom-tasks.onrender.com/)
 
 ## Requirements
 - Node JS 
