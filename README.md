@@ -91,3 +91,8 @@ Para obtener los las llaves necesarias de Firebase en el `.env` deberás entrar 
 ## Pasos para ejecutar y validar las pruebas en desarrollo
 1. Ejecuta el comando `yarn test` y valida que todos los tests hayan pasado.
 
+
+### Galería
+![image](https://github.com/MistyBlunch/atom-test/assets/29315728/8bc62876-1d5e-4a16-b81e-012b1b340e42)
+
+
